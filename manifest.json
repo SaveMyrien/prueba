@@ -1,12 +1,12 @@
 {
   "name": "Latino Providers",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "scrapers": [
     {
       "id": "lamovie",
       "name": "LaMovie",
       "description": "Streams en Latino desde LaMovie.",
-      "version": "2.0.0",
+      "version": "2.0.1",
       "author": "KennethJYS",
       "supportedTypes": ["movie", "tv"],
       "filename": "providers/lamovie.js",
